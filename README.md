@@ -6,6 +6,7 @@ In this notebook I transfer learning a phoBert model on students feedbacks on Hu
 # Preference 
 
 pretrain model: https://huggingface.co/ncduy/phobert-large-finetuned-vietnamese_students_feedback
+
 Vietnamese spelling corrector: https://huggingface.co/bmd1905/vietnamese-correction
 
 
